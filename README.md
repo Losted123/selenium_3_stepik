@@ -1,1 +1,1 @@
-# selenium_3_stepik
+Задания третьего модлуля курса по Selenium
